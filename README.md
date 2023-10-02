@@ -20,6 +20,10 @@ The challenge required the following:
 ![Desktop preview](./screenshort/desktop-preview.png)
 ![Mobile preview](./screenshort/mobile-preview.png)
 
+| Mobile                                            | Desktop                                            |
+| ------------------------------------------------- | -------------------------------------------------- |
+| ![](./screenshort/desktop-preview.png)            | ![](./screenshort/mobile-preview.png)              |
+
 ## Live Demo 🚀
 
 You can view the live demo of the project [here](https://profile-card-component-008.netlify.app/).

@@ -8,10 +8,6 @@
 
 --Dark-gray: hsl(0, 0%, 59%);
 
-
-
-/* - Font size (name and stats): 18px */
-
 --ff-primary: 'Kumbh Sans', sans-serif;
 --fW-regular: 400;
 --fW-bold: 700;
@@ -29,7 +25,6 @@
 body {
     font-family: var(--ff-primary);
     color: var(--Dark-grayish-blue);
-    /* font-size: 18px; */
 }
 
 img {
@@ -47,15 +42,12 @@ img {
     background: var(--Dark-cyan);
     display: grid;
     place-content: center;
-    /* position: relative; */
 }
 
 .profile {
-    /* width: 21rem; */
     width: 20.9rem;
     border-radius: .7rem;
     overflow: hidden;
-    /* position: relative; */
 }
 
 .profile__top {
@@ -66,12 +58,8 @@ img {
     content: "";
     position: absolute;
     background: url(./images/image-victor.jpg) no-repeat;
-    /* width: 28%;
-    height: 69%; */
     width: 30.5%;
     height: 76%;
-    /* width: 5.6rem;
-    height: 5.6rem; */
     top: 100%;
     left: 50%;
     border-radius: 50%;
@@ -82,7 +70,6 @@ img {
 
 .profile__content {
     width: 100%;
-    /* padding: 5rem 3rem 2rem 3rem; */
     padding: 4.2rem 0 1.3rem;
     text-align: center;
     background: white;
